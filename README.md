@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Chat App](https://github.com/malaika-Rizwan/chat-app.git)
 
-- 🌱 I’m currently learning **Node.js, real time apis**
+- 🌱 I’m currently learning **Node.js, real time web apps**
 
 - 👨‍💻 All of my projects are available at my portfolio [https://portfoilio-jet.vercel.app](https://portfoilio-jet.vercel.app)
 
